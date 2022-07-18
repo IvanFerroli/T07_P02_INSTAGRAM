@@ -332,6 +332,7 @@ footer {
   line-height: 13px;
   margin-bottom: 18px;
   gap: 2px;
+  background-color: red;
 }
 
 a {
